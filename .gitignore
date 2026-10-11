@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Proyecto de referencia (no subir)
+proyecto-js-vanilla/
+examen-web-dos/
