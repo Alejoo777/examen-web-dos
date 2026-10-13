@@ -1,4 +1,5 @@
-const datos = [
+// Mock de datos: arreglo nativo de JavaScript (no JSON)
+export const datos = [
   {
     id: 1,
     titulo: "Menos es Más",

@@ -614,3 +614,11 @@ footer.site-footer {
   flex-wrap: wrap;
   gap: 12px;
 }
+
+/* Ajuste para React: el contenedor #root ocupa toda la altura
+   para que el footer quede abajo (igual que en la versión HTML) */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
